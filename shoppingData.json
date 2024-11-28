@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "item": "tamato",
+    "quantity": 12
+  },
+  {
+    "id": 3,
+    "item": "Milk",
+    "quantity": 2
+  },
+  {
+    "id": 4,
+    "item": "Bread",
+    "quantity": 1
+  }
+]
